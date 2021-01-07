@@ -5,3 +5,5 @@
 - Vinit
 
 ## Trainees
+
+- Kunal Mehta
